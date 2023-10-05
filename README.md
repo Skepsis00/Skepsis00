@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skepsis00
-- 👀 I’m interested in ... learn some skills
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... acquire some skills
+- 🌱 I’m currently learning ... html, css, javascript, diseño ux/ui
+- 💞️ I’m looking to collaborate on ... proyects
 - 📫 How to reach me ... 
 
 <!---
